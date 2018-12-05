@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>素材/mir.png</file>
+        <file>素材/mir2.png</file>
+        <file alias="按钮">素材/dd34c3f8ca24a68dd523a822de45ffb6.png</file>
+        <file>素材/背景.gif</file>
+        <file alias="补的背景">素材/5S8HS[C_BSW_}009FI](XNS.png</file>
+        <file>素材/953a95ce2c239b063d94016b06ab29d2.png</file>
+        <file>素材/IMG_0961.JPG</file>
+        <file>素材/60b273595b16c4c226c3aa593d6cc1d3.png</file>
+        <file>素材/3a457c8bf415369d9802226c08a975e8.png</file>
+    </qresource>
+</RCC>
